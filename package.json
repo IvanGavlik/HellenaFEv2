@@ -1,0 +1,8 @@
+{
+  "name": "daily-apps",
+  "private": true,
+  "dependencies": {
+    "lerna": "^5.4.3",
+    "postcss-rem-to-responsive-pixel": "^5.1.1"
+  }
+}
